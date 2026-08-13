@@ -1,28 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Heart%20Shiana%20Ursua&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Computer%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" width="100%" alt="header" />
-
-<a href="https://github.com/heartshiana">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Embedded+Software+Engineer;Full-Stack+Web+Developer;UI%2FUX+Designer;Firmware+%7C+React+%7C+Next.js" alt="Typing SVG" />
-</a>
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,react,nextjs,flask,postgres,arduino,git,linux,figma&perline=12" alt="tech stack" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Embedded-ESP32%20%7C%20Arduino-0A66C2?style=for-the-badge&labelColor=0d1117" alt="embedded" />
-<img src="https://img.shields.io/badge/Protocols-UART%20%7C%20SPI%20%7C%20BLE-2EA043?style=for-the-badge&labelColor=0d1117" alt="protocols" />
-<img src="https://img.shields.io/badge/Web-React%20%7C%20Next.js%20%7C%20Flask-8957E5?style=for-the-badge&labelColor=0d1117" alt="web" />
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=heartshiana&style=flat-square&color=58A6FF&label=Profile+Views" alt="profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="divider" />
-
-</div>
+<p align="center">
+  <img src="assets/koi.svg" width="100%" alt="" />
+</p>
 
 <pre>                                                   
  ........................@@............@@............................. 
@@ -68,8 +46,3 @@
  %@@%@@@%@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-.. 
   </pre>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
-
-</div>
